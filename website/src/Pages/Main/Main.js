@@ -6,7 +6,7 @@ function Main() {
     return (
         <div className="Main">
             <Articles data={materials} />
-
+            
         </div>
     )
 }
