@@ -1,21 +1,21 @@
-import './App.css';
-import Parent from "./components/Parent";
+// import './App.css';
+// import Parent from "./components/Parent";
 
-function App() {
+// function App() {
 
-  let name = "Joe";
+//   let name = "Joe";
 
-  function helper(arg) {
-    console.log(arg);
-  }
+//   function helper(arg) {
+//     console.log(arg);
+//   }
 
-  return (
-    <>
-      <h1>Компонент ПРЕДОК</h1>
+//   return (
+//     <>
+//       <h1>Компонент ПРЕДОК</h1>
 
-      <Parent man={name} fun={helper} />
-    </>
-  );
-}
+//       <Parent man={name} fun={helper} />
+//     </>
+//   );
+// }
 
-export default App;
+// export default App;

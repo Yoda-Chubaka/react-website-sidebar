@@ -1,18 +1,18 @@
-function Parent(props) {
+// function Parent(props) {
 
-    console.log(props);
+//     console.log(props);
 
-    // let x = 111;
+//     // let x = 111;
 
-    // props.fun(x);
+//     // props.fun(x);
 
-    props.fun(props.man);
+//     props.fun(props.man);
 
-    return (
-        <>
-            <h1 style={{color: "green"}}>Дочірній компонент</h1>
-        </>
-    )
-}
+//     return (
+//         <>
+//             <h1 style={{color: "green"}}>Дочірній компонент</h1>
+//         </>
+//     )
+// }
 
-export default Parent;
+// export default Parent;
